@@ -1,2 +1,2 @@
-/*.sh linguist-detectable=false
-/rootfs/** linguist-detectable=false
+secretfile filter=git-crypt diff=git-crypt
+kube/* filter=git-crypt diff=git-crypt
